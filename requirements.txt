@@ -1,0 +1,11 @@
+# Core simulation + analysis
+numpy>=1.24
+pandas>=2.0
+matplotlib>=3.7
+
+# Sensitivity experiments
+scipy>=1.10          # Latin Hypercube sampling (scipy.stats.qmc)
+statsmodels>=0.14    # OLS regression with interaction terms
+
+# Testing
+pytest>=7.0
