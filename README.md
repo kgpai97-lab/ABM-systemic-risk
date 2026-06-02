@@ -1,4 +1,4 @@
-# Bookstaber ABM — An Agent-Based Model of Fire Sales and Funding Runs
+# An Agent-Based Model of Fire Sales and Systemic Risk
 
 An agent-based model (ABM) of financial systemic risk. It simulates a small financial
 system — cash providers, bank/dealers, and leveraged hedge funds trading in a
